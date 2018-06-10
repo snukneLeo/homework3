@@ -60,9 +60,9 @@ per visualizzare la mappa senza clustering.
 * [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)
 
 
-### Author ###
+### Autore ###
 
 * `Testolin Leonardo`, University of Verona (Italy) [leonardo.testolin@studenti.univr.it](mailto:leonardo.testolin@studenti.univr.it)
 
-### License ###
+### Licenza ###
 [View License](https://github.com/snukneLeo/homework3/blob/master/LICENSE)
