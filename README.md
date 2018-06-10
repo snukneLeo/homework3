@@ -32,7 +32,7 @@ Una volta avviato lo script `run.sh` compariranno le finestre Map Viewer, Curren
 <img src="screenshot/run_bag.png" width="800">
 Successivamente occorre attendere che la bag venga eseguita fino alla fine, dopodiché usare la combinazione di tasti `Ctrl+C` per chiudere lo script orb_slam (terminale in basso a sinistra) e permettere al software di salvare la mappa.
 
-Infine, per visualizzare la point-cloud, posizionandovi nella directory `homework_3`, lanciare il seguente comando:
+Infine, per visualizzare la point-cloud, posizionandovi nella directory `homework3`, lanciare il seguente comando:
 ```sh
 $ ./bin/Cluster pointcloud.pcd
 ```
