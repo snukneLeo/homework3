@@ -44,12 +44,12 @@ Oppure
 $ pcl_viewer pointcloud.pcd
 ```
 per visualizzare la mappa senza clustering.
-### SOLO MAPPA POINTCLOUD ###
+### Mappa pointCloud ###
 <img src="screenshot/pointcloud_map.png" width="800">
 
 
 
-### References ###
+### Riferimenti ###
 
 * [Course page (prof. Bloisi - Univr)](profs.scienze.univr.it/~bloisi/corsi/ciberfisico.html)
 
