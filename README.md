@@ -39,6 +39,7 @@ $ ./bin/Cluster pointcloud.pcd
 ### Cluster ###
 <img src="screenshot/totalMap_point.png" width="800">
 Oppure
+
 ```sh
 $ pcl_viewer pointcloud.pcd
 ```
