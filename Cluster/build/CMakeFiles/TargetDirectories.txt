@@ -1,0 +1,3 @@
+/home/snukne/homework3/Cluster/build/CMakeFiles/rebuild_cache.dir
+/home/snukne/homework3/Cluster/build/CMakeFiles/edit_cache.dir
+/home/snukne/homework3/Cluster/build/CMakeFiles/cluster_extraction.dir
