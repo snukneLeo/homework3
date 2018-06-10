@@ -1,4 +1,4 @@
-##### Homework 3 [Laboratorio Ciberfisico] - University of Verona #####
+# Homework 3 [Laboratorio Ciberfisico] - University of Verona #
 
 ### Descrizione
 L'homework 3 è composto da 4 parti:
