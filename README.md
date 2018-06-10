@@ -34,7 +34,7 @@ Successivamente occorre attendere che la bag venga eseguita fino alla fine, dopo
 
 Infine, per visualizzare la point-cloud, posizionandovi nella directory `homework3`, lanciare il seguente comando:
 ```sh
-$ ./bin/Cluster pointcloud.pcd
+$ ./Cluster/build/cluster_extraction pointcloud.pcd
 ```
 ### Cluster ###
 <img src="screenshot/totalMap_point.png" width="800">
