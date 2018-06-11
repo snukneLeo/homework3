@@ -13,7 +13,7 @@ I punti 1, 2 e 3 sono tutte inglobate in questo repository, tuttavia occorre ave
 ```sh
 $ git clone https://github.com/snukneLeo/homework3.git
 ```
-Posizionarsi nella directory homework3 e lanciare lo script "build.sh" con il comando:
+Posizionarsi nella directory homework3 e lanciare lo script `build.sh` con il comando:
 ```sh
 $ ./build.sh
 ```
